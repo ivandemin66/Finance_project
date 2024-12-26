@@ -3,8 +3,6 @@ package models;
 import services.AuthService;
 import services.FinanceService;
 import utils.InputValidator;
-
-
 import java.util.Scanner;
 
 public class Main {
@@ -13,6 +11,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         AuthService authService = new AuthService();
         FinanceService financeService = new FinanceService();
+
 
         User currentUser = null;
         System.out.println("Добро пожаловать в приложение управления личными финансами!");
@@ -113,6 +112,7 @@ public class Main {
                             System.out.println("Ошибка: " + e.getMessage());
                             continue;
                         }
+
 
                         try {
                             financeService.setBudget(currentUser, category, limit);
