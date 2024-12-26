@@ -5,12 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6911bdca-b4c5-4723-8285-342e97416593" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/amplicode-jpa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/TransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/FinanceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/InputValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Notifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,12 +49,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/idevi/Desktop/javaProjects/Finance_project/src/main/java/org/example/Main.java"
+    "last_opened_file_path": "C:/Users/idevi/Desktop/javaProjects/Finance_project/src",
+    "onboarding.tips.debug.path": "C:/Users/idevi/Desktop/javaProjects/Finance_project/src/main/java/org/example/Main.java",
+    "two.files.diff.last.used.folder": "C:/Users/idevi/Desktop/javaProjects/Finance_project/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\idevi\Desktop\javaProjects\Finance_project\src\models" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
