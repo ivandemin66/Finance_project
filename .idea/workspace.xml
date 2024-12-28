@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6911bdca-b4c5-4723-8285-342e97416593" name="Changes" comment="Создание начальной версии проекта &quot;управления финансами&quot;.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/FinanceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/FinanceService.java" afterDir="false" />
-    </list>
+    <list default="true" id="6911bdca-b4c5-4723-8285-342e97416593" name="Changes" comment="Исправление ошибок, добавление нового функционала." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/idevi/Desktop/javaProjects/Finance_project/src&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/idevi/Desktop/javaProjects/Finance_project/src/main/java/org/example/Main.java&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/idevi/Desktop/javaProjects/Finance_project/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/idevi/Desktop/Heroes/Проект студентам",
+    "onboarding.tips.debug.path": "C:/Users/idevi/Desktop/javaProjects/Finance_project/src/main/java/org/example/Main.java",
+    "two.files.diff.last.used.folder": "C:/Users/idevi/Desktop/javaProjects/Finance_project/src"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\idevi\Desktop\javaProjects\Finance_project\src\models" />
@@ -101,12 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735199661905</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Исправление ошибок, добавление нового функционала.">
+      <option name="closed" value="true" />
+      <created>1735208075146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735208075146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создание начальной версии проекта &quot;управления финансами&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание начальной версии проекта &quot;управления финансами&quot;." />
+    <MESSAGE value="Исправление ошибок, добавление нового функционала." />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправление ошибок, добавление нового функционала." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
